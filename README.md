@@ -9,6 +9,12 @@ That is how we can initiate two way serial communication over Bluetooth.
 I hope I will be able to troubleshoot C part of Arduino Roomba Control to show the setup in action.by or presentation meeting. 
 Basically Roomba Control worked, while connected to Android phone, also with the feedback from ultrasonic radar. I could not make videos them, because the phone was busy. 
 
+### Used modules: 
+PySerial
+PyGame
+
+### WIN10 test equipment: Lenovo T420 +  
+
 
 ### The project DEPLOYED BY Vadims Stojans 14/11/2021
 ### - as a coursework of "Python programmēšanas valoda" @ Riga Technical univercity further educational program.  
