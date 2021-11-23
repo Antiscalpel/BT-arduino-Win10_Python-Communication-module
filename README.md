@@ -13,9 +13,9 @@ Basically Roomba Control worked, while connected to Android phone, also with the
 PySerial
 PyGame
 
-### WIN10 test equipment: Lenovo T420 +  
+### WIN10 test equipment: Lenovo T420 + Broadcom BT builtin transmitter + IVT BlueSoleil Driver Package
 
 
-### The project DEPLOYED BY Vadims Stojans 14/11/2021
-### - as a coursework of "Python programmēšanas valoda" @ Riga Technical univercity further educational program.  
-### Many thanks to Valdis S Coding for inspiration.
+## The project DEPLOYED BY Vadims Stojans 14/11/2021
+ - as a coursework of "Python programmēšanas valoda" @ Riga Technical univercity further educational program.  
+ Many thanks to Valdis S Coding for inspiration.
